@@ -1,0 +1,37 @@
+This program is the practice work I coded to pass Object Oriented Programming subject.
+
+
+To build, compile and run the game.
+
+ $ cd src
+ $ javac -classpath /usr/share/java/junit4-4.8.1.jar *.java  # change junit library to suit your system.
+ $ java Tetris
+
+
+
+Playing Keys:
+
+Move piece left: Left cursor key 
+
+Move piece rigth: Right cursor key
+
+Rotate: Up cursor key
+
+Down four lines at once: Down cursor key
+
+Fall current piece to the bottom at once: Space key.
+
+Pause current game: P
+
+Continue current game: P
+
+
+
+
+Start the game:
+Menu -> Juego -> Empezar
+
+Stop the game:
+Menu -> Juego -> Terminar
+
+
